@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"Clipboard History",
+		"CoffeeScript",
+		"CTags",
+		"Cucumber",
+		"Git",
+		"GitGutter",
+		"Github Color Theme",
+		"Handlebars",
+		"Indent XML",
+		"Markdown Preview",
+		"Package Control",
+		"Package Syncing",
+		"Rails Related Files",
+		"RSpec",
+		"SideBarGit",
+		"SmartMarkdown",
+		"Sublimerge Pro",
+		"SyncedSideBar",
+		"Theme - Flatland"
+	]
+}

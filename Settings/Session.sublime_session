@@ -1,0 +1,2993 @@
+{
+	"folder_history":
+	[
+		"/home/toon/dev/dpplus",
+		"/home/toon/dev/mynews",
+		"/home/toon/dev/developer_mdp",
+		"/home/toon/dev/provisioning",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/bundler/gems/mdp_backoffice-e85226fcfc90",
+		"/home/toon/dev/brain",
+		"/home/toon/dev/dps_dpplus",
+		"/home/toon/.rvm/gems/ruby-2.0.0-p247@mynews/bundler/gems/feedzirra-aac56576d66c",
+		"/home/toon/dev/mdp_backoffice",
+		"/home/toon/dev/ipt_otps_applet",
+		"/home/toon/dev/dpconnect",
+		"/home/toon/dev/usage_api",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/gems/capistrano-2.13.5",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@developer_mdp/gems/capistrano-2.15.4",
+		"/home/toon/dev/toetoe/toetoe",
+		"/home/toon/dev/EMVCAP-1.4",
+		"/home/toon/dev/github/bootstrap-invoice",
+		"/home/toon/dev/support-static",
+		"/home/toon/dev/livechat-static",
+		"/home/toon/dev/chat",
+		"/home/toon/dev/support",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/bundler/gems/mdp_backoffice-162a8ec0d0e4",
+		"/home/toon/dev/toetoe",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/bundler/gems/sms_api-f9f72a2a2352",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/bundler/gems/sms_api-dd23cc2e8309",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@developer_mdp/gems/nestful-1.0.7",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/gems/rubyzip-1.0.0",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@mdp_backoffice/bundler/gems/dpplus-5b0105f372cb",
+		"/home/toon/dev/dpplus/tmp/export",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/bundler/gems/oauth2-provider-aa5c036ef2d1",
+		"/home/toon/dev/android/adt-bundle-linux-x86_64-20131030/sdk/tools",
+		"/home/toon/dev/dps_team_gist",
+		"/home/toon/dev/github/wp-mydigipass",
+		"/home/toon/dev/github",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/bundler/gems/mdp_backoffice-47f30bb8dd4d",
+		"/home/toon/dev/backtick-demotoken",
+		"/home/toon/dev/metrics_hub",
+		"/home/toon/.config",
+		"/home/toon/dev/github/io",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/gems/sidekiq-2.14.1",
+		"/home/toon/dev/github/jsdoc",
+		"/home/toon/.rvm/gems/jruby-1.7.4@brain/gems/sidekiq-2.13.0",
+		"/home/toon/dev/books_demo",
+		"/home/toon/dev/github/mdp_mobile_api",
+		"/home/toon/dev/contra",
+		"/home/toon/dev/dpx/With BVDP_V8_DPP_ForWebSite_VDS0080000_VASCO_20130821_142929_10000pcs",
+		"/home/toon/dotfiles",
+		"/home/toon/Downloads/images",
+		"/home/toon/dev/eid_inspector",
+		"/home/toon/dev/dps_team_gist/doc/developer_guidelines",
+		"/home/toon/dev/dps_team_gist/doc/eid",
+		"/home/toon/dev/dps_team_gist/doc/architecture",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/bundler/gems/vasco_country_us_state_select-a894528dc990",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/gems/rails-i18n-0.6.5",
+		"/home/toon/dev/dps_doc",
+		"/home/toon/dev/cvs/DP_SC_Reader_Plugin",
+		"/home/toon/dev/aspi_proxy_conf_daemon",
+		"/home/toon/dev/svs_server",
+		"/home/toon/eid",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@mdp_backoffice/gems/capistrano-2.13.5",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@mdp_backoffice/gems/capistrano-ext-1.2.1",
+		"/home/toon/eid/source",
+		"/home/toon/dev/svs_java",
+		"/home/toon/dev/github/mdp_browser_extensions/chrome",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/bundler/gems/rack-google-analytics-6152229952d6",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/gems/rack-google-analytics-0.11.0",
+		"/home/toon/tmp/Wizard",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/bundler/gems/vasco_country_us_state_select-7a4943214bd3",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/gems/i18n-0.6.1",
+		"/home/toon/dev/github/mdp_browser_extensions",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/bundler/gems/oauth2-provider-999d0af7e876",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p392@dpplus/gems/oauth2-0.5.2",
+		"/home/toon/dev/saucelabs",
+		"/home/toon/dev",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p327@dpplus/gems/activerecord-3.2.12",
+		"/home/toon/dev/sms_server",
+		"/home/toon/dev/dps_registration",
+		"/home/toon/dev/rb_vacman",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p327@dpplus/bundler/gems/oauth2-provider-999d0af7e876",
+		"/home/toon/dev/gitlabhq",
+		"/home/toon/dev/errbit",
+		"/home/toon/progs/hubot",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p327@dpplus/bundler/gems/vasco_country_us_state_select-7a4943214bd3",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p125@dpplus/gems/activerecord-3.2.8",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p125@rails_329/gems/activerecord-3.2.9",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p125@dpplus/gems/mongoid-2.4.10",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p125@dpplus/gems/rails-i18n-0.6.5",
+		"/home/toon/.rvm/gems/ree-1.8.7-2012.02@dpplus_production34/bundler/gems/dps_registration-3544f5af19a0",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p125@dpplus/gems/twitter_cldr-1.6.2",
+		"/home/toon/dev/vasco_country_us_state_select",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p125@dpplus/gems/rails_config-0.2.5",
+		"/home/toon/vasco_sso",
+		"/home/toon/dev/github/magento-mydigipass",
+		"/home/toon/.rvm/gems/ruby-1.9.3-p125@dpplus/bundler/gems/oauth2-provider-c834e13f8334",
+		"/home/toon/dev/test",
+		"/home/toon/dev/github/vasco-data-security.github.com",
+		"/home/toon/dev/vg_jruby",
+		"/home/toon/tmp/mark_tes",
+		"/home/toon/dev/cvs/C_Controller/DEVSOURCE/java",
+		"/home/toon/.config/sublime-text-2/Packages/RunTest"
+	],
+	"last_window_id": 448,
+	"settings":
+	{
+		"new_window_height": 1010.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"authen",
+						"authentications_left"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"su",
+						"app_subscription"
+					],
+					[
+						"wait",
+						"wait_until"
+					],
+					[
+						"l",
+						"locale_suffix"
+					],
+					[
+						"exter",
+						"external_applications"
+					],
+					[
+						"uuid",
+						"uuids"
+					],
+					[
+						"defau",
+						"default_tab"
+					],
+					[
+						"ISO",
+						"ISO_OTHER_COUNTRY_CODES"
+					],
+					[
+						"lau",
+						"launchpad_preferences"
+					],
+					[
+						"Laun",
+						"launchpad_preferences"
+					],
+					[
+						"error",
+						"error_type"
+					],
+					[
+						"app_sub",
+						"app_subscription"
+					],
+					[
+						"only",
+						"only_for_regions"
+					],
+					[
+						"on",
+						"only_for_regions"
+					],
+					[
+						"ext",
+						"ext_app"
+					],
+					[
+						"is",
+						"isActive"
+					],
+					[
+						"in",
+						"input_html"
+					],
+					[
+						"test",
+						"test_result"
+					],
+					[
+						"W",
+						"WEB10"
+					],
+					[
+						"Auth",
+						"AuthenticationResult"
+					],
+					[
+						"Au",
+						"AuthenticationResult"
+					],
+					[
+						"authe",
+						"authenticator"
+					],
+					[
+						"Authe",
+						"AuthenticatorPool"
+					],
+					[
+						"auth",
+						"authenticator_pool"
+					],
+					[
+						"mdp",
+						"mdp_mobile_pool"
+					],
+					[
+						"local",
+						"localhost"
+					],
+					[
+						"vds_",
+						"format_vds_response"
+					],
+					[
+						"foun",
+						"found_mapping"
+					],
+					[
+						"provi",
+						"provisioning_id"
+					],
+					[
+						"File",
+						"File	File.open(\"..\") { |file| .. }"
+					],
+					[
+						"policy",
+						"policy_name"
+					],
+					[
+						"ret",
+						"retry_on"
+					],
+					[
+						"app",
+						"skip_app_db_setup"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 266.0,
+				"selected_items":
+				[
+					[
+						"syntax j",
+						"Set Syntax: JSON"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"syn rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"wra",
+						"Word Wrap: Toggle"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"pre",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"preview",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"prev",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"comp",
+						"Sublimerge: Compare to View..."
+					],
+					[
+						"log",
+						"Git: Log All"
+					],
+					[
+						"git comm",
+						"Git: Commit history"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"git lo",
+						"Git: Log Current File"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"preve",
+						"Pandoc: Render Markdown to temp HTML and View"
+					],
+					[
+						"previ",
+						"Pandoc: Render Markdown to temp PDF and View"
+					],
+					[
+						"mar",
+						"Markdown Preview: preview in Browser"
+					],
+					[
+						"bla",
+						"Git: Blame"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"synta",
+						"Set Syntax: Handlebars"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"annot",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git log c",
+						"Git: Log Current File"
+					],
+					[
+						"gitlo",
+						"Git: Log All"
+					],
+					[
+						"gitlog u",
+						"Git: Log Current File"
+					],
+					[
+						"gitlog",
+						"Git: Log Current File"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"device",
+						"Markdown Preview: open Markdown Cheat sheet"
+					],
+					[
+						"ann",
+						"Git: Toggle Annotations"
+					],
+					[
+						"anno",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git ann",
+						"Git: Toggle Annotations"
+					],
+					[
+						"",
+						"Git: Diff All"
+					],
+					[
+						"git hist",
+						"Git: Commit history"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"git blame",
+						"Git: Blame"
+					],
+					[
+						"git hi",
+						"Git: Commit history"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						"curre",
+						"Git: Log Current File"
+					],
+					[
+						"log cu",
+						"Git: Log Current File"
+					],
+					[
+						"it log",
+						"Git: Log Current File"
+					],
+					[
+						"ins package",
+						"Package Control: Install Package"
+					],
+					[
+						"markdow",
+						"Set Syntax: Markdown"
+					],
+					[
+						"mardo",
+						"Markdown Preview: current file in Sublime Text"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"git ",
+						"Git: Blame"
+					],
+					[
+						"git d",
+						"Git: Diff Current File"
+					],
+					[
+						"Snippet: when",
+						"Snippet: when …"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 615.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/authenticator_group.rb",
+				"/home/toon/dev/dpplus/db/seeds/20140226075013_add_authenticator_groups.rb",
+				"/home/toon/dev/dpplus/lib/extensions/find_or_create.rb",
+				"/home/toon/dev/dpplus/db/seeds.rb",
+				"/home/toon/dev/dpplus/config/database.yml",
+				"/home/toon/dev/dpplus/db/migrate/20140225144847_create_authenticator_groups.rb",
+				"/home/toon/dev/dpplus/db/seeds/20130823150005_add_authenticator_pool_for_brain_copy.rb",
+				"/home/toon/dev/dpplus/db/seeds/20130911000000_add_virtual_backup_digipass_profile.rb",
+				"/home/toon/dev/dpplus/db/schema.rb",
+				"/home/toon/dev/dpplus/lib/api/support_console/root.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/authenticator_pool.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/authenticator_profile.rb",
+				"/home/toon/dev/dpplus/config/recipes/cap_notify.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/digipass_eid_authenticator.rb",
+				"/home/toon/dev/dpplus/config/deploy.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/beid_authenticator.rb",
+				"/home/toon/dev/dpplus/config/recipes/qa_webhooks.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/user.rb",
+				"/home/toon/dev/dpplus/app/assets/javascripts/common/google_analytics.coffee",
+				"/home/toon/dev/dpplus/app/views/fp/mailer/welcome.html.erb",
+				"/home/toon/dev/mynews/spec/controllers/news_controller_spec.rb",
+				"/home/toon/dev/dpplus/app/views/shared/launchpad/_nav.html.erb",
+				"/home/toon/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/toon/dev/dpplus/app/views/shared/launchpad/_nav_copyright.html.haml",
+				"/home/toon/dev/dpplus/app/views/fp/pre_login_info/intro.html.erb",
+				"/home/toon/dev/dpplus/db/templates/developers.rb",
+				"/home/toon/dev/dpplus/app/views/shared/_cookies.html.haml",
+				"/home/toon/dev/dpplus/app/workers/accounting_log_worker.rb",
+				"/home/toon/dev/dpplus/app/models/fp/authenticator.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/authenticator.rb",
+				"/home/toon/dev/dpplus/app/view_objects/ipt_device.rb",
+				"/home/toon/dev/dpplus/lib/life_cycle.rb",
+				"/home/toon/dev/dpplus/lib/workflows/dp4web_ipt.rb",
+				"/home/toon/dev/dpplus/app/assets/javascripts/digiti_infopage.js",
+				"/home/toon/dev/dpplus/app/view_objects/marketplace.rb",
+				"/home/toon/dev/dpplus/app/controllers/fp/external_applications_controller.rb",
+				"/home/toon/dev/dpplus/Gemfile",
+				"/home/toon/dev/dpplus/Capfile",
+				"/home/toon/dev/dpplus/app/views/fp/pre_login_info/pre_login.html.erb",
+				"/home/toon/dev/dpconnect/config/deploy/production_all.rb",
+				"/home/toon/dev/dpconnect/config/recipes/apache.rb",
+				"/home/toon/dev/dpconnect/config/deploy/apache_conf.erb",
+				"/home/toon/dev/dpplus/.gitignore",
+				"/home/toon/dev/dpplus/features/step_definitions/mydigipass/cookie_policy_popup_steps.rb",
+				"/home/toon/dev/dpplus/app/helpers/more_info_helper.rb",
+				"/home/toon/dev/dpplus/app/views/fp/sessions/_signin_form_ipt.html.haml",
+				"/home/toon/dev/dpplus/config/locales/en_new_keys_for_cms.yml",
+				"/home/toon/dev/dpplus/app/services/signup_service.rb",
+				"/home/toon/dev/dpplus/lib/brain.rb",
+				"/home/toon/dev/dpplus/features/mydigipass/cookie_policy_popup.feature",
+				"/home/toon/dev/dpplus/app/views/fp/recovery/not_possible.html.haml",
+				"/home/toon/dev/dpplus/app/controllers/app_status_controller.rb",
+				"/home/toon/dev/dpplus/app/helpers/application_helper.rb",
+				"/home/toon/dev/dpplus/config/routes.rb",
+				"/home/toon/dev/dpplus/lib/app_status.rb",
+				"/home/toon/dev/dpplus/spec/helpers/application_helper_spec.rb",
+				"/home/toon/dev/dpconnect/README.md",
+				"/home/toon/dev/livechat-static/README",
+				"/home/toon/dev/dpplus/lib/workflows.rb",
+				"/home/toon/dev/dpplus/spec/controllers/ws/rest/accounts_controller_spec.rb",
+				"/home/toon/dev/dpplus/app/controllers/ws/rest/accounts_controller.rb",
+				"/home/toon/dev/dpplus/app/controllers/fp/bookmarks_controller.rb",
+				"/home/toon/dev/dpplus/app/models/fp/principal.rb",
+				"/home/toon/dev/dpplus/spec/controllers/fp/bookmarks_controller_spec.rb",
+				"/home/toon/dev/dpplus/spec/factories/small_organisation.rb",
+				"/home/toon/dev/dpplus/spec/models/fp/principal_spec.rb",
+				"/home/toon/dev/dpplus/spec/factories.rb",
+				"/home/toon/dev/dpplus/spec/controllers/ws/rest/authentications_controller_spec.rb",
+				"/home/toon/dev/dpplus/spec/models/bookmark_spec.rb",
+				"/home/toon/dev/dpplus/lib/workflows/base.rb",
+				"/home/toon/dev/dpplus/spec/models/mdp_frontend/account_spec.rb",
+				"/home/toon/dev/dpplus/lib/workflows/otp_sender.rb",
+				"/home/toon/dev/dpplus/features/support/world/mydigipass_steps_helper.rb",
+				"/home/toon/dev/dpplus/features/support/world/card_steps_helper.rb",
+				"/home/toon/dev/dpplus/db/templates/qa.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/mdp_backoffice_extensions/account_extensions.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/account_card.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/account.rb",
+				"/home/toon/dev/dpplus/app/models/fp/app_subscription.rb",
+				"/home/toon/dev/dpplus/db/migrate/20140103124110_remove_aid_uid_from_account.rb",
+				"/home/toon/dev/dpplus/app/controllers/provisioning_controller.rb",
+				"/home/toon/dev/dpplus/app/models/provisioning/registration.rb",
+				"/home/toon/dev/dpplus/app/models/provisioning/base.rb",
+				"/home/toon/dev/dpplus/app/mailers/fp/mailer.rb",
+				"/home/toon/dev/dpplus/app/workers/users_clean_worker.rb",
+				"/home/toon/dev/dpplus/lib/contra.rb",
+				"/home/toon/dev/dpplus/config/settings.yml",
+				"/home/toon/dev/dpplus/spec/fake_views/fp/sessions/_signin_form_physical_qr.html.haml",
+				"/home/toon/dev/dpplus/app/controllers/fp/devices/sms_controller.rb",
+				"/home/toon/dev/dpplus/spec/controllers/fp/devices/sms_controller_spec.rb",
+				"/home/toon/dev/dpplus/spec/lib/source_translation_keys_collector_spec.rb",
+				"/home/toon/dev/dpplus/lib/source_translation_keys_collector.rb",
+				"/home/toon/dev/dpplus/config/initializers/sms_api.rb",
+				"/home/toon/dev/dpplus/app/controllers/fp/application_controller.rb",
+				"/home/toon/dev/dpplus/config/settings/qual.yml",
+				"/home/toon/dev/dpplus/app/view_objects/sms_device.rb",
+				"/home/toon/dev/dpplus/app/controllers/fp/devices_controller.rb",
+				"/home/toon/dev/dpplus/app/controllers/fp/signup_controller.rb",
+				"/home/toon/dev/dpplus/app/views/fp/signup/index.html.haml",
+				"/home/toon/dev/dpplus/app/workers/verify_enough_resources_worker.rb",
+				"/home/toon/dev/dpplus/spec/workers/verify_enough_resources_worker_spec.rb",
+				"/home/toon/dev/dpplus/lib/loggers/mdp_logger_base.rb",
+				"/home/toon/dev/dpplus/app/views/fp/principals/confirm_email.html.haml",
+				"/home/toon/dev/dpplus/app/views/fp/authenticators/provision_ipt.html.haml",
+				"/home/toon/dev/dpplus/app/controllers/fp/principals_controller.rb",
+				"/home/toon/dev/dpplus/config/environments/development.yml",
+				"/home/toon/dev/dpplus/config/deploy/production.rb",
+				"/home/toon/.thunderbird/sskk6dz5.default/prefs.js",
+				"/home/toon/dev/dpplus/app/assets/javascripts/launchpad/qr_polling.js.erb",
+				"/home/toon/dev/dpplus/app/controllers/fp/authenticators_controller.rb",
+				"/home/toon/dev/dpplus/spec/views/fp/sessions/new_physical_qr.html.haml_spec.rb",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/bork_translations.yml",
+				"/home/toon/dev/dpplus/config/locales/cms/de_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/de_translations.json",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/de_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/en_fr_translations.xlf",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/en_it_translations.xlf",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/en_translations.json",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/en_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/fr_translations.json",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/fr_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/it_translations.json",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/it_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/nl_translations.json",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/nl_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/bork_translations.json",
+				"/home/toon/dev/dpplus/app/inputs/iconish_segments_input.rb",
+				"/home/toon/dev/dpplus/config/locales/cms/en_translations.yml"
+			],
+			"find":
+			{
+				"height": 77.0
+			},
+			"find_in_files":
+			{
+				"height": 97.0,
+				"where_history":
+				[
+					"",
+					"/home/toon/dev/dpplus/spec/fixtures/cms",
+					"",
+					"**/*js",
+					"**/*coffee",
+					"**/*css",
+					"**/*erb",
+					"**/*rb",
+					"**/*haml",
+					"",
+					"**/*js",
+					"**/*css",
+					"**/*rb",
+					"**/*yml",
+					"",
+					"**/*rb",
+					"",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/**/*.rb",
+					"/home/toon/dev/dpplus",
+					"/home/toon/eid/source",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/config",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/app/assets/javascripts/",
+					"/home/toon/dev/dpplus/assets/javascripts/",
+					"/home/toon/dev/dpplus/assets/javascripts",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/config",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/config",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/app/assets",
+					"/home/toon/dev/dpplus/app/assets/stylesheets",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/app/controllers",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/",
+					"/home/toon/dev/sms_server",
+					"/home/toon/dev/dpplus/config/recipes",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/db/migrate",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/spec",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpconnect",
+					"/home/toon/dev/dps_dpplus",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/developer_mdp",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dps_dpplus",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/spec",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/lib/cms",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/developer_mdp",
+					"/home/toon/dev/svs_server",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/db/migrate",
+					"/home/toon/dev/dpplus/db/migrations",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/app",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/config/locales",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/config",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/config/locales",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/brain",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/developer_mdp",
+					"/home/toon/dev/brain",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/config",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/developer_mdp/",
+					"/home/toon/dev/developer_mdp/app/assets/stylesheets",
+					"/home/toon/dev/developer_mdp",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/spec/models",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/developer_mdp",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/app/views",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/app/",
+					"/home/toon/dev/dpplus/app/views/admin/dp4web",
+					"",
+					"/home/toon/dev/developer_mdp/config/recipes",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"host_name",
+					"vasco_find_or_cre",
+					"backup_pool",
+					"find_by_beid_authenticator_id",
+					"gw.mechelen",
+					"safe_to_validate_country",
+					"class @",
+					"safe_to_validate_country",
+					"ensure_dp4web_user_id",
+					"class @",
+					"GoogleAnalytics",
+					"split_news_in_3_columns",
+					"font-url",
+					"redis",
+					"nav_copyright",
+					"fp_cookies_path",
+					"reserve_free_ipt_digipass",
+					"status_disabled",
+					"check_authenticator_enabled_and_operational",
+					"vimeo",
+					"user_attributes",
+					"user_attributes=",
+					"last_authenticated_at",
+					"trust_service",
+					"mec-eid",
+					"med-eid",
+					"public",
+					"beid_authenticator",
+					"confirm_primary_email!",
+					"confirm_email!",
+					"type=\"password",
+					"type=\"static password",
+					"redir",
+					"cookie-policy",
+					"the cookie policy banner has to be open",
+					"unlock@vasco.com",
+					"AppStatus",
+					"server_ok_status?",
+					"eid",
+					"initial-scale=1.0",
+					"}",
+					"\":{\"",
+					"{",
+					"}",
+					"rest",
+					"aid_uid",
+					"raise",
+					"aid_",
+					"I am authenticated with pluto",
+					"rais",
+					"aid_uid",
+					"\n                         ",
+					"aid_uid",
+					"aid",
+					"aid_uid",
+					"OtpSender",
+					"aid_",
+					"aid",
+					"aid_uid_login_alias_proc",
+					"assign_uuid",
+					"aid_uid",
+					"create_table \"accounts\"",
+					"aid_uid",
+					"support@vasco.com",
+					"scan_to_authenticate",
+					"client_id",
+					"def confirm_account",
+					"needs_email_reminder",
+					"archive!",
+					"i18n_key_pattern",
+					"get_all_files",
+					"get_filenames_and_keys",
+					"Settings.sms_server",
+					"external_application_sms_api_key",
+					"SmsGateway.send_sms",
+					"send_sms_with_otp",
+					"sms",
+					"base_uri",
+					".env.production",
+					"on_sandbox",
+					"verify_enough_sandbox_authenticators",
+					"We are running low on",
+					"mec-eid",
+					"semantic_form_for",
+					"inputs",
+					"provision_ipt",
+					"semantic_form_for",
+					"formtastic",
+					"bork_translations",
+					"formtastic",
+					"simple_form.labels.fp/session.static_password",
+					"static_password: Your master key",
+					"disableSubmitOnSubmission",
+					"formtastic",
+					"IconishSegmentsInput",
+					"name@domain.com",
+					"formtastic",
+					"formta",
+					"formtastic",
+					"$",
+					"formtastic.",
+					"semantic_form_for",
+					"formtastic",
+					"$",
+					"messages.",
+					"*$",
+					"^*$",
+					"^\\(*.\\)$",
+					"^(*.)$",
+					"assigned",
+					"has_accounts",
+					"destroy_integrity",
+					"application_policy_required",
+					"not_allowed_to_see_policy_details",
+					"accounts_integrity",
+					"file_overwrite_warning",
+					"what_are_attributes",
+					"impact_of_sharing_attributes",
+					"what_are_attributes",
+					"$",
+					"fp.",
+					"faqs",
+					"enforce_available_locales",
+					"config.i18n.enforce_available_locales",
+					"CollectI18nKeys",
+					"collect_i18n_keys",
+					"clean",
+					"delete_fp_session"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"simple_form",
+					"]",
+					"spring rake cms:remove[formtastic.",
+					"]",
+					"spring rake cms:remove[messages.",
+					"]",
+					"]$",
+					"spring rake cms:remove[fp.",
+					"emails_without_blanks",
+					"#{accounting_log_database_host}",
+					" cleanup_serial",
+					" ",
+					"www_facebook_com",
+					"show prices in",
+					"\"errors.messages\"",
+					"profile",
+					"MYDIGIPASS.COM",
+					"dps.support@vasco.com",
+					"dps.dev@vasco.com"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"appl",
+						"config/application.rb"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"2014",
+						"db/migrate/20140225144847_create_authenticator_groups.rb"
+					],
+					[
+						"seeds",
+						"db/seeds.rb"
+					],
+					[
+						"schem",
+						"db/schema.rb"
+					],
+					[
+						"auhgrou",
+						"app/models/mdp_frontend/authenticator_group.rb"
+					],
+					[
+						"supportroot",
+						"lib/api/support_console/root.rb"
+					],
+					[
+						"authprof",
+						"app/models/mdp_frontend/authenticator_profile.rb"
+					],
+					[
+						"authpool",
+						"app/models/mdp_frontend/authenticator_pool.rb"
+					],
+					[
+						"beid",
+						"app/models/mdp_frontend/beid_authenticator.rb"
+					],
+					[
+						"deploy",
+						"config/deploy.rb"
+					],
+					[
+						"user",
+						"app/models/mdp_frontend/user.rb"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"newsspec",
+						"spec/controllers/news_controller_spec.rb"
+					],
+					[
+						"inde",
+						"app/views/news/index.html.haml"
+					],
+					[
+						"confienpr",
+						"config/environments/production.rb"
+					],
+					[
+						"configapp",
+						"config/application.rb"
+					],
+					[
+						"feed",
+						"lib/feed.rb"
+					],
+					[
+						"gol",
+						"lib/developer_api/go_live_submissions.rb"
+					],
+					[
+						"developer",
+						"db/templates/developers.rb"
+					],
+					[
+						"ipt",
+						"app/view_objects/ipt_device.rb"
+					],
+					[
+						"lifec",
+						"lib/life_cycle.rb"
+					],
+					[
+						"authe",
+						"app/models/mdp_frontend/authenticator.rb"
+					],
+					[
+						"authenticatorrb",
+						"app/models/fp/authenticator.rb"
+					],
+					[
+						"worker",
+						"app/workers/accounting_log_worker.rb"
+					],
+					[
+						"exapco",
+						"app/controllers/fp/external_applications_controller.rb"
+					],
+					[
+						"mar",
+						"app/view_objects/marketplace.rb"
+					],
+					[
+						"preloerb",
+						"app/views/fp/pre_login_info/pre_login.html.erb"
+					],
+					[
+						"cap",
+						"Capfile"
+					],
+					[
+						"signupser",
+						"app/services/signup_service.rb"
+					],
+					[
+						"gitign",
+						".gitignore"
+					],
+					[
+						"br",
+						"lib/brain.rb"
+					],
+					[
+						"new",
+						"config/locales/en_new_keys_for_cms.yml"
+					],
+					[
+						"more_info_helper",
+						"app/helpers/more_info_helper.rb"
+					],
+					[
+						"pre_loht",
+						"app/views/fp/pre_login_info/pre_login.html.erb"
+					],
+					[
+						"cookie_policy_popup.feature",
+						"features/mydigipass/cookie_policy_popup.feature"
+					],
+					[
+						"app",
+						"lib/app_status.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"restaccoun",
+						"spec/controllers/ws/rest/accounts_controller_spec.rb"
+					],
+					[
+						"workflows",
+						"lib/workflows.rb"
+					],
+					[
+						"databyml",
+						"config/database.yml"
+					],
+					[
+						"cardste",
+						"features/support/world/card_steps_helper.rb"
+					],
+					[
+						"authfea",
+						"features/mydigipass/authenticator.feature"
+					],
+					[
+						"mydigipsthe",
+						"features/support/world/mydigipass_steps_helper.rb"
+					],
+					[
+						"wobase",
+						"lib/workflows/base.rb"
+					],
+					[
+						"work",
+						"lib/workflows.rb"
+					],
+					[
+						"bookmaspec",
+						"spec/models/bookmark_spec.rb"
+					],
+					[
+						"autconsp",
+						"spec/controllers/ws/rest/authentications_controller_spec.rb"
+					],
+					[
+						"account_sp",
+						"spec/models/mdp_frontend/account_spec.rb"
+					],
+					[
+						"factories",
+						"spec/factories.rb"
+					],
+					[
+						"princi",
+						"spec/models/fp/principal_spec.rb"
+					],
+					[
+						"acccospe",
+						"spec/controllers/ws/rest/accounts_controller_spec.rb"
+					],
+					[
+						"small",
+						"spec/factories/small_organisation.rb"
+					],
+					[
+						"bookcon",
+						"spec/controllers/fp/bookmarks_controller_spec.rb"
+					],
+					[
+						"princa",
+						"app/models/fp/principal.rb"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"removeai",
+						"db/migrate/20140103124110_remove_aid_uid_from_account.rb"
+					],
+					[
+						"sett",
+						"config/settings.yml"
+					],
+					[
+						"contra",
+						"lib/contra.rb"
+					],
+					[
+						"probase",
+						"app/models/provisioning/base.rb"
+					],
+					[
+						"regirb",
+						"app/models/provisioning/registration.rb"
+					],
+					[
+						"provcon",
+						"app/controllers/provisioning_controller.rb"
+					],
+					[
+						"fakeviews",
+						"spec/fake_views/fp/sessions/_signin_form_physical_qr.html.haml"
+					],
+					[
+						"source",
+						"spec/lib/source_translation_keys_collector_spec.rb"
+					],
+					[
+						"smscosp",
+						"spec/controllers/fp/devices/sms_controller_spec.rb"
+					],
+					[
+						"smscospe",
+						"spec/controllers/fp/devices/sms_controller_spec.rb"
+					],
+					[
+						"gemfil",
+						"Gemfile"
+					],
+					[
+						"siindex",
+						"app/views/fp/signup/index.html.haml"
+					],
+					[
+						"signuco",
+						"app/controllers/fp/signup_controller.rb"
+					],
+					[
+						"devicon",
+						"app/controllers/fp/devices_controller.rb"
+					],
+					[
+						"smsdev",
+						"app/view_objects/sms_device.rb"
+					],
+					[
+						"accoun",
+						"app/models/mdp_frontend/account_card.rb"
+					],
+					[
+						"verien",
+						"spec/workers/verify_enough_resources_worker_spec.rb"
+					],
+					[
+						"qrpoll",
+						"app/assets/javascripts/launchpad/qr_polling.js.erb"
+					],
+					[
+						"produ",
+						"config/deploy/production.rb"
+					],
+					[
+						"product",
+						"config/deploy/production.rb"
+					],
+					[
+						"develop",
+						"config/environments/development.yml"
+					],
+					[
+						"pricontr",
+						"app/controllers/fp/principals_controller.rb"
+					],
+					[
+						"mdplogg",
+						"lib/loggers/mdp_logger_base.rb"
+					],
+					[
+						"de_",
+						"spec/fixtures/cms/de_translations.json"
+					],
+					[
+						"newkeys",
+						"config/locales/en_new_keys_for_cms.yml"
+					],
+					[
+						"cmsen",
+						"config/locales/cms/en_translations.yml"
+					],
+					[
+						"new_ke",
+						"config/locales/en_new_keys_for_cms.yml"
+					],
+					[
+						"usersigc",
+						"app/controllers/fp/user_signup_controller.rb"
+					],
+					[
+						"faqs",
+						"app/views/shared/fp/_faqs.html.haml"
+					],
+					[
+						"applirb",
+						"config/application.rb"
+					],
+					[
+						"spec_",
+						"spec/spec_helper.rb"
+					],
+					[
+						"coll",
+						"lib/collect_i18n_keys.rb"
+					],
+					[
+						"session",
+						"app/controllers/fp/sessions_controller.rb"
+					],
+					[
+						"fpsession",
+						"app/models/fp/session.rb"
+					],
+					[
+						"stat",
+						"lib/status.rb"
+					],
+					[
+						"user.rb",
+						"app/models/mdp_frontend/user.rb"
+					],
+					[
+						"smsgat",
+						"lib/sms_gateway.rb"
+					],
+					[
+						"en_new",
+						"config/locales/en_new_keys_for_cms.yml"
+					],
+					[
+						"recowife",
+						"features/mydigipass/recovery_wizard.feature"
+					],
+					[
+						"reco",
+						"app/services/recovery_service.rb"
+					],
+					[
+						"reccon",
+						"app/controllers/fp/recovery_controller.rb"
+					],
+					[
+						"pricon",
+						"app/controllers/fp/principals_controller.rb"
+					],
+					[
+						"priconspe",
+						"spec/controllers/fp/principals_controller_spec.rb"
+					],
+					[
+						"mult",
+						"spec/models/fp/multi_username_recovery_spec.rb"
+					],
+					[
+						"find_us",
+						"app/views/fp/recovery/find_username.html.haml"
+					],
+					[
+						"appser",
+						"app/services/application_service.rb"
+					],
+					[
+						"multiusere",
+						"app/models/fp/multi_username_recovery.rb"
+					],
+					[
+						"recocont",
+						"app/controllers/fp/recovery_controller.rb"
+					],
+					[
+						"datayml",
+						"config/database.yml"
+					],
+					[
+						"cron",
+						"lib/tasks/cron.rake"
+					],
+					[
+						"signupcon",
+						"spec/controllers/fp/signup_controller_spec.rb"
+					],
+					[
+						"logger",
+						"lib/loggers/mdp_logger.rb"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"roue",
+						"config/routes.rb"
+					],
+					[
+						"apps",
+						"lib/app_status.rb"
+					],
+					[
+						"mobil",
+						"spec/api/mobile_spec.rb"
+					],
+					[
+						"restap",
+						"features/api/rest_api.feature"
+					],
+					[
+						"probysms",
+						"app/controllers/fp/provisioning_by_sms_controller.rb"
+					],
+					[
+						"provser",
+						"app/services/mobile_provisioner_service.rb"
+					],
+					[
+						"depl",
+						"config/deploy.rb"
+					],
+					[
+						"mobile",
+						"app/api/mobile.rb"
+					],
+					[
+						"pupp",
+						"config/recipes/puppet.rb"
+					],
+					[
+						"dieid",
+						"app/models/mdp_frontend/digipass_eid_authenticator.rb"
+					],
+					[
+						"signuser",
+						"app/services/signup_service.rb"
+					],
+					[
+						"modal",
+						"app/assets/javascripts/launchpad/modal_form.coffee"
+					],
+					[
+						"sessionc",
+						"app/controllers/fp/sessions_controller.rb"
+					],
+					[
+						"qual",
+						"config/settings/qual.yml"
+					],
+					[
+						"side",
+						"config/sidekiq.yml"
+					],
+					[
+						"oacosp",
+						"spec/controllers/fp/oauth_controller_spec.rb"
+					],
+					[
+						"oauthc",
+						"app/controllers/fp/oauth_controller.rb"
+					],
+					[
+						"oaucospe",
+						"spec/controllers/fp/oauth_controller_spec.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 338.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1418.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"authen",
+						"authentications_left"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"su",
+						"app_subscription"
+					],
+					[
+						"wait",
+						"wait_until"
+					],
+					[
+						"l",
+						"locale_suffix"
+					],
+					[
+						"exter",
+						"external_applications"
+					],
+					[
+						"uuid",
+						"uuids"
+					],
+					[
+						"defau",
+						"default_tab"
+					],
+					[
+						"ISO",
+						"ISO_OTHER_COUNTRY_CODES"
+					],
+					[
+						"lau",
+						"launchpad_preferences"
+					],
+					[
+						"Laun",
+						"launchpad_preferences"
+					],
+					[
+						"error",
+						"error_type"
+					],
+					[
+						"app_sub",
+						"app_subscription"
+					],
+					[
+						"only",
+						"only_for_regions"
+					],
+					[
+						"on",
+						"only_for_regions"
+					],
+					[
+						"ext",
+						"ext_app"
+					],
+					[
+						"is",
+						"isActive"
+					],
+					[
+						"in",
+						"input_html"
+					],
+					[
+						"test",
+						"test_result"
+					],
+					[
+						"W",
+						"WEB10"
+					],
+					[
+						"Auth",
+						"AuthenticationResult"
+					],
+					[
+						"Au",
+						"AuthenticationResult"
+					],
+					[
+						"authe",
+						"authenticator"
+					],
+					[
+						"Authe",
+						"AuthenticatorPool"
+					],
+					[
+						"auth",
+						"authenticator_pool"
+					],
+					[
+						"mdp",
+						"mdp_mobile_pool"
+					],
+					[
+						"local",
+						"localhost"
+					],
+					[
+						"vds_",
+						"format_vds_response"
+					],
+					[
+						"foun",
+						"found_mapping"
+					],
+					[
+						"provi",
+						"provisioning_id"
+					],
+					[
+						"File",
+						"File	File.open(\"..\") { |file| .. }"
+					],
+					[
+						"policy",
+						"policy_name"
+					],
+					[
+						"ret",
+						"retry_on"
+					],
+					[
+						"app",
+						"skip_app_db_setup"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/toon/dev/developer_mdp/config/deploy/apache_vhost.conf.erb",
+					"settings":
+					{
+						"buffer_size": 570,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/toon/dev/developer_mdp/config/deploy.rb",
+					"settings":
+					{
+						"buffer_size": 2371,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/toon/dev/developer_mdp/config/recipes/apache.rb",
+					"settings":
+					{
+						"buffer_size": 868,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 266.0,
+				"selected_items":
+				[
+					[
+						"syntax j",
+						"Set Syntax: JSON"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"syn rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"wra",
+						"Word Wrap: Toggle"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"pre",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"preview",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"prev",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"comp",
+						"Sublimerge: Compare to View..."
+					],
+					[
+						"log",
+						"Git: Log All"
+					],
+					[
+						"git comm",
+						"Git: Commit history"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"git lo",
+						"Git: Log Current File"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"preve",
+						"Pandoc: Render Markdown to temp HTML and View"
+					],
+					[
+						"previ",
+						"Pandoc: Render Markdown to temp PDF and View"
+					],
+					[
+						"mar",
+						"Markdown Preview: preview in Browser"
+					],
+					[
+						"bla",
+						"Git: Blame"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"synta",
+						"Set Syntax: Handlebars"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"annot",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git log c",
+						"Git: Log Current File"
+					],
+					[
+						"gitlo",
+						"Git: Log All"
+					],
+					[
+						"gitlog u",
+						"Git: Log Current File"
+					],
+					[
+						"gitlog",
+						"Git: Log Current File"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"device",
+						"Markdown Preview: open Markdown Cheat sheet"
+					],
+					[
+						"ann",
+						"Git: Toggle Annotations"
+					],
+					[
+						"anno",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git ann",
+						"Git: Toggle Annotations"
+					],
+					[
+						"",
+						"Git: Diff All"
+					],
+					[
+						"git hist",
+						"Git: Commit history"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"git blame",
+						"Git: Blame"
+					],
+					[
+						"git hi",
+						"Git: Commit history"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						"curre",
+						"Git: Log Current File"
+					],
+					[
+						"log cu",
+						"Git: Log Current File"
+					],
+					[
+						"it log",
+						"Git: Log Current File"
+					],
+					[
+						"ins package",
+						"Package Control: Install Package"
+					],
+					[
+						"markdow",
+						"Set Syntax: Markdown"
+					],
+					[
+						"mardo",
+						"Markdown Preview: current file in Sublime Text"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"git ",
+						"Git: Blame"
+					],
+					[
+						"git d",
+						"Git: Diff Current File"
+					],
+					[
+						"Snippet: when",
+						"Snippet: when …"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 615.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/authenticator_group.rb",
+				"/home/toon/dev/dpplus/db/seeds/20140226075013_add_authenticator_groups.rb",
+				"/home/toon/dev/dpplus/lib/extensions/find_or_create.rb",
+				"/home/toon/dev/dpplus/db/seeds.rb",
+				"/home/toon/dev/dpplus/config/database.yml",
+				"/home/toon/dev/dpplus/db/migrate/20140225144847_create_authenticator_groups.rb",
+				"/home/toon/dev/dpplus/db/seeds/20130823150005_add_authenticator_pool_for_brain_copy.rb",
+				"/home/toon/dev/dpplus/db/seeds/20130911000000_add_virtual_backup_digipass_profile.rb",
+				"/home/toon/dev/dpplus/db/schema.rb",
+				"/home/toon/dev/dpplus/lib/api/support_console/root.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/authenticator_pool.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/authenticator_profile.rb",
+				"/home/toon/dev/dpplus/config/recipes/cap_notify.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/digipass_eid_authenticator.rb",
+				"/home/toon/dev/dpplus/config/deploy.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/beid_authenticator.rb",
+				"/home/toon/dev/dpplus/config/recipes/qa_webhooks.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/user.rb",
+				"/home/toon/dev/dpplus/app/assets/javascripts/common/google_analytics.coffee",
+				"/home/toon/dev/dpplus/app/views/fp/mailer/welcome.html.erb",
+				"/home/toon/dev/mynews/spec/controllers/news_controller_spec.rb",
+				"/home/toon/dev/dpplus/app/views/shared/launchpad/_nav.html.erb",
+				"/home/toon/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/toon/dev/dpplus/app/views/shared/launchpad/_nav_copyright.html.haml",
+				"/home/toon/dev/dpplus/app/views/fp/pre_login_info/intro.html.erb",
+				"/home/toon/dev/dpplus/db/templates/developers.rb",
+				"/home/toon/dev/dpplus/app/views/shared/_cookies.html.haml",
+				"/home/toon/dev/dpplus/app/workers/accounting_log_worker.rb",
+				"/home/toon/dev/dpplus/app/models/fp/authenticator.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/authenticator.rb",
+				"/home/toon/dev/dpplus/app/view_objects/ipt_device.rb",
+				"/home/toon/dev/dpplus/lib/life_cycle.rb",
+				"/home/toon/dev/dpplus/lib/workflows/dp4web_ipt.rb",
+				"/home/toon/dev/dpplus/app/assets/javascripts/digiti_infopage.js",
+				"/home/toon/dev/dpplus/app/view_objects/marketplace.rb",
+				"/home/toon/dev/dpplus/app/controllers/fp/external_applications_controller.rb",
+				"/home/toon/dev/dpplus/Gemfile",
+				"/home/toon/dev/dpplus/Capfile",
+				"/home/toon/dev/dpplus/app/views/fp/pre_login_info/pre_login.html.erb",
+				"/home/toon/dev/dpconnect/config/deploy/production_all.rb",
+				"/home/toon/dev/dpconnect/config/recipes/apache.rb",
+				"/home/toon/dev/dpconnect/config/deploy/apache_conf.erb",
+				"/home/toon/dev/dpplus/.gitignore",
+				"/home/toon/dev/dpplus/features/step_definitions/mydigipass/cookie_policy_popup_steps.rb",
+				"/home/toon/dev/dpplus/app/helpers/more_info_helper.rb",
+				"/home/toon/dev/dpplus/app/views/fp/sessions/_signin_form_ipt.html.haml",
+				"/home/toon/dev/dpplus/config/locales/en_new_keys_for_cms.yml",
+				"/home/toon/dev/dpplus/app/services/signup_service.rb",
+				"/home/toon/dev/dpplus/lib/brain.rb",
+				"/home/toon/dev/dpplus/features/mydigipass/cookie_policy_popup.feature",
+				"/home/toon/dev/dpplus/app/views/fp/recovery/not_possible.html.haml",
+				"/home/toon/dev/dpplus/app/controllers/app_status_controller.rb",
+				"/home/toon/dev/dpplus/app/helpers/application_helper.rb",
+				"/home/toon/dev/dpplus/config/routes.rb",
+				"/home/toon/dev/dpplus/lib/app_status.rb",
+				"/home/toon/dev/dpplus/spec/helpers/application_helper_spec.rb",
+				"/home/toon/dev/dpconnect/README.md",
+				"/home/toon/dev/livechat-static/README",
+				"/home/toon/dev/dpplus/lib/workflows.rb",
+				"/home/toon/dev/dpplus/spec/controllers/ws/rest/accounts_controller_spec.rb",
+				"/home/toon/dev/dpplus/app/controllers/ws/rest/accounts_controller.rb",
+				"/home/toon/dev/dpplus/app/controllers/fp/bookmarks_controller.rb",
+				"/home/toon/dev/dpplus/app/models/fp/principal.rb",
+				"/home/toon/dev/dpplus/spec/controllers/fp/bookmarks_controller_spec.rb",
+				"/home/toon/dev/dpplus/spec/factories/small_organisation.rb",
+				"/home/toon/dev/dpplus/spec/models/fp/principal_spec.rb",
+				"/home/toon/dev/dpplus/spec/factories.rb",
+				"/home/toon/dev/dpplus/spec/controllers/ws/rest/authentications_controller_spec.rb",
+				"/home/toon/dev/dpplus/spec/models/bookmark_spec.rb",
+				"/home/toon/dev/dpplus/lib/workflows/base.rb",
+				"/home/toon/dev/dpplus/spec/models/mdp_frontend/account_spec.rb",
+				"/home/toon/dev/dpplus/lib/workflows/otp_sender.rb",
+				"/home/toon/dev/dpplus/features/support/world/mydigipass_steps_helper.rb",
+				"/home/toon/dev/dpplus/features/support/world/card_steps_helper.rb",
+				"/home/toon/dev/dpplus/db/templates/qa.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/mdp_backoffice_extensions/account_extensions.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/account_card.rb",
+				"/home/toon/dev/dpplus/app/models/mdp_frontend/account.rb",
+				"/home/toon/dev/dpplus/app/models/fp/app_subscription.rb",
+				"/home/toon/dev/dpplus/db/migrate/20140103124110_remove_aid_uid_from_account.rb",
+				"/home/toon/dev/dpplus/app/controllers/provisioning_controller.rb",
+				"/home/toon/dev/dpplus/app/models/provisioning/registration.rb",
+				"/home/toon/dev/dpplus/app/models/provisioning/base.rb",
+				"/home/toon/dev/dpplus/app/mailers/fp/mailer.rb",
+				"/home/toon/dev/dpplus/app/workers/users_clean_worker.rb",
+				"/home/toon/dev/dpplus/lib/contra.rb",
+				"/home/toon/dev/dpplus/config/settings.yml",
+				"/home/toon/dev/dpplus/spec/fake_views/fp/sessions/_signin_form_physical_qr.html.haml",
+				"/home/toon/dev/dpplus/app/controllers/fp/devices/sms_controller.rb",
+				"/home/toon/dev/dpplus/spec/controllers/fp/devices/sms_controller_spec.rb",
+				"/home/toon/dev/dpplus/spec/lib/source_translation_keys_collector_spec.rb",
+				"/home/toon/dev/dpplus/lib/source_translation_keys_collector.rb",
+				"/home/toon/dev/dpplus/config/initializers/sms_api.rb",
+				"/home/toon/dev/dpplus/app/controllers/fp/application_controller.rb",
+				"/home/toon/dev/dpplus/config/settings/qual.yml",
+				"/home/toon/dev/dpplus/app/view_objects/sms_device.rb",
+				"/home/toon/dev/dpplus/app/controllers/fp/devices_controller.rb",
+				"/home/toon/dev/dpplus/app/controllers/fp/signup_controller.rb",
+				"/home/toon/dev/dpplus/app/views/fp/signup/index.html.haml",
+				"/home/toon/dev/dpplus/app/workers/verify_enough_resources_worker.rb",
+				"/home/toon/dev/dpplus/spec/workers/verify_enough_resources_worker_spec.rb",
+				"/home/toon/dev/dpplus/lib/loggers/mdp_logger_base.rb",
+				"/home/toon/dev/dpplus/app/views/fp/principals/confirm_email.html.haml",
+				"/home/toon/dev/dpplus/app/views/fp/authenticators/provision_ipt.html.haml",
+				"/home/toon/dev/dpplus/app/controllers/fp/principals_controller.rb",
+				"/home/toon/dev/dpplus/config/environments/development.yml",
+				"/home/toon/dev/dpplus/config/deploy/production.rb",
+				"/home/toon/.thunderbird/sskk6dz5.default/prefs.js",
+				"/home/toon/dev/dpplus/app/assets/javascripts/launchpad/qr_polling.js.erb",
+				"/home/toon/dev/dpplus/app/controllers/fp/authenticators_controller.rb",
+				"/home/toon/dev/dpplus/spec/views/fp/sessions/new_physical_qr.html.haml_spec.rb",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/bork_translations.yml",
+				"/home/toon/dev/dpplus/config/locales/cms/de_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/de_translations.json",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/de_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/en_fr_translations.xlf",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/en_it_translations.xlf",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/en_translations.json",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/en_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/fr_translations.json",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/fr_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/it_translations.json",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/it_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/nl_translations.json",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/nl_translations.yml",
+				"/home/toon/dev/dpplus/spec/fixtures/cms/bork_translations.json",
+				"/home/toon/dev/dpplus/app/inputs/iconish_segments_input.rb",
+				"/home/toon/dev/dpplus/config/locales/cms/en_translations.yml"
+			],
+			"find":
+			{
+				"height": 77.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"/home/toon/dev/dpplus/spec/fixtures/cms",
+					"",
+					"**/*js",
+					"**/*coffee",
+					"**/*css",
+					"**/*erb",
+					"**/*rb",
+					"**/*haml",
+					"",
+					"**/*js",
+					"**/*css",
+					"**/*rb",
+					"**/*yml",
+					"",
+					"**/*rb",
+					"",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/**/*.rb",
+					"/home/toon/dev/dpplus",
+					"/home/toon/eid/source",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/config",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/app/assets/javascripts/",
+					"/home/toon/dev/dpplus/assets/javascripts/",
+					"/home/toon/dev/dpplus/assets/javascripts",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/config",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/config",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/app/assets",
+					"/home/toon/dev/dpplus/app/assets/stylesheets",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/app/controllers",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/",
+					"/home/toon/dev/sms_server",
+					"/home/toon/dev/dpplus/config/recipes",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/db/migrate",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/spec",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpconnect",
+					"/home/toon/dev/dps_dpplus",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/developer_mdp",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dps_dpplus",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/spec",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/lib/cms",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/developer_mdp",
+					"/home/toon/dev/svs_server",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/db/migrate",
+					"/home/toon/dev/dpplus/db/migrations",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/app",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/config/locales",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/config",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/config/locales",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/brain",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/developer_mdp",
+					"/home/toon/dev/brain",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/config",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/developer_mdp/",
+					"/home/toon/dev/developer_mdp/app/assets/stylesheets",
+					"/home/toon/dev/developer_mdp",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/spec/models",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/developer_mdp",
+					"/home/toon/dev/dpplus",
+					"/home/toon/dev/dpplus/app/views",
+					"/home/toon/dev/dpplus/",
+					"/home/toon/dev/dpplus/app/",
+					"/home/toon/dev/dpplus/app/views/admin/dp4web",
+					"",
+					"/home/toon/dev/developer_mdp/config/recipes",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"vasco_find_or_cre",
+					"backup_pool",
+					"find_by_beid_authenticator_id",
+					"gw.mechelen",
+					"safe_to_validate_country",
+					"class @",
+					"safe_to_validate_country",
+					"ensure_dp4web_user_id",
+					"class @",
+					"GoogleAnalytics",
+					"split_news_in_3_columns",
+					"font-url",
+					"redis",
+					"nav_copyright",
+					"fp_cookies_path",
+					"reserve_free_ipt_digipass",
+					"status_disabled",
+					"check_authenticator_enabled_and_operational",
+					"vimeo",
+					"user_attributes",
+					"user_attributes=",
+					"last_authenticated_at",
+					"trust_service",
+					"mec-eid",
+					"med-eid",
+					"public",
+					"beid_authenticator",
+					"confirm_primary_email!",
+					"confirm_email!",
+					"type=\"password",
+					"type=\"static password",
+					"redir",
+					"cookie-policy",
+					"the cookie policy banner has to be open",
+					"unlock@vasco.com",
+					"AppStatus",
+					"server_ok_status?",
+					"eid",
+					"initial-scale=1.0",
+					"}",
+					"\":{\"",
+					"{",
+					"}",
+					"rest",
+					"aid_uid",
+					"raise",
+					"aid_",
+					"I am authenticated with pluto",
+					"rais",
+					"aid_uid",
+					"\n                         ",
+					"aid_uid",
+					"aid",
+					"aid_uid",
+					"OtpSender",
+					"aid_",
+					"aid",
+					"aid_uid_login_alias_proc",
+					"assign_uuid",
+					"aid_uid",
+					"create_table \"accounts\"",
+					"aid_uid",
+					"support@vasco.com",
+					"scan_to_authenticate",
+					"client_id",
+					"def confirm_account",
+					"needs_email_reminder",
+					"archive!",
+					"i18n_key_pattern",
+					"get_all_files",
+					"get_filenames_and_keys",
+					"Settings.sms_server",
+					"external_application_sms_api_key",
+					"SmsGateway.send_sms",
+					"send_sms_with_otp",
+					"sms",
+					"base_uri",
+					".env.production",
+					"on_sandbox",
+					"verify_enough_sandbox_authenticators",
+					"We are running low on",
+					"mec-eid",
+					"semantic_form_for",
+					"inputs",
+					"provision_ipt",
+					"semantic_form_for",
+					"formtastic",
+					"bork_translations",
+					"formtastic",
+					"simple_form.labels.fp/session.static_password",
+					"static_password: Your master key",
+					"disableSubmitOnSubmission",
+					"formtastic",
+					"IconishSegmentsInput",
+					"name@domain.com",
+					"formtastic",
+					"formta",
+					"formtastic",
+					"$",
+					"formtastic.",
+					"semantic_form_for",
+					"formtastic",
+					"$",
+					"messages.",
+					"*$",
+					"^*$",
+					"^\\(*.\\)$",
+					"^(*.)$",
+					"assigned",
+					"has_accounts",
+					"destroy_integrity",
+					"application_policy_required",
+					"not_allowed_to_see_policy_details",
+					"accounts_integrity",
+					"file_overwrite_warning",
+					"what_are_attributes",
+					"impact_of_sharing_attributes",
+					"what_are_attributes",
+					"$",
+					"fp.",
+					"faqs",
+					"enforce_available_locales",
+					"config.i18n.enforce_available_locales",
+					"CollectI18nKeys",
+					"collect_i18n_keys",
+					"clean",
+					"delete_fp_session",
+					"update_principal_sign_in_stats"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"simple_form",
+					"]",
+					"spring rake cms:remove[formtastic.",
+					"]",
+					"spring rake cms:remove[messages.",
+					"]",
+					"]$",
+					"spring rake cms:remove[fp.",
+					"emails_without_blanks",
+					"#{accounting_log_database_host}",
+					" cleanup_serial",
+					" ",
+					"www_facebook_com",
+					"show prices in",
+					"\"errors.messages\"",
+					"profile",
+					"MYDIGIPASS.COM",
+					"dps.support@vasco.com",
+					"dps.dev@vasco.com"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/toon/dev/developer_mdp"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/toon/dev/developer_mdp/config/deploy/apache_vhost.conf.erb",
+							"settings":
+							{
+								"buffer_size": 570,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										317,
+										317
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/toon/dev/developer_mdp/config/deploy.rb",
+							"settings":
+							{
+								"buffer_size": 2371,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1673,
+										1673
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 270.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/toon/dev/developer_mdp/config/recipes/apache.rb",
+							"settings":
+							{
+								"buffer_size": 868,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										702,
+										702
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"position": "0,0,0,0,0,1751,115,3169,1125,3200,1200",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"deploy",
+						"config/deploy.rb"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"2014",
+						"db/migrate/20140225144847_create_authenticator_groups.rb"
+					],
+					[
+						"seeds",
+						"db/seeds.rb"
+					],
+					[
+						"schem",
+						"db/schema.rb"
+					],
+					[
+						"auhgrou",
+						"app/models/mdp_frontend/authenticator_group.rb"
+					],
+					[
+						"supportroot",
+						"lib/api/support_console/root.rb"
+					],
+					[
+						"authprof",
+						"app/models/mdp_frontend/authenticator_profile.rb"
+					],
+					[
+						"authpool",
+						"app/models/mdp_frontend/authenticator_pool.rb"
+					],
+					[
+						"beid",
+						"app/models/mdp_frontend/beid_authenticator.rb"
+					],
+					[
+						"user",
+						"app/models/mdp_frontend/user.rb"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"newsspec",
+						"spec/controllers/news_controller_spec.rb"
+					],
+					[
+						"inde",
+						"app/views/news/index.html.haml"
+					],
+					[
+						"confienpr",
+						"config/environments/production.rb"
+					],
+					[
+						"configapp",
+						"config/application.rb"
+					],
+					[
+						"feed",
+						"lib/feed.rb"
+					],
+					[
+						"gol",
+						"lib/developer_api/go_live_submissions.rb"
+					],
+					[
+						"developer",
+						"db/templates/developers.rb"
+					],
+					[
+						"ipt",
+						"app/view_objects/ipt_device.rb"
+					],
+					[
+						"lifec",
+						"lib/life_cycle.rb"
+					],
+					[
+						"authe",
+						"app/models/mdp_frontend/authenticator.rb"
+					],
+					[
+						"authenticatorrb",
+						"app/models/fp/authenticator.rb"
+					],
+					[
+						"worker",
+						"app/workers/accounting_log_worker.rb"
+					],
+					[
+						"exapco",
+						"app/controllers/fp/external_applications_controller.rb"
+					],
+					[
+						"mar",
+						"app/view_objects/marketplace.rb"
+					],
+					[
+						"preloerb",
+						"app/views/fp/pre_login_info/pre_login.html.erb"
+					],
+					[
+						"cap",
+						"Capfile"
+					],
+					[
+						"signupser",
+						"app/services/signup_service.rb"
+					],
+					[
+						"gitign",
+						".gitignore"
+					],
+					[
+						"br",
+						"lib/brain.rb"
+					],
+					[
+						"new",
+						"config/locales/en_new_keys_for_cms.yml"
+					],
+					[
+						"more_info_helper",
+						"app/helpers/more_info_helper.rb"
+					],
+					[
+						"pre_loht",
+						"app/views/fp/pre_login_info/pre_login.html.erb"
+					],
+					[
+						"cookie_policy_popup.feature",
+						"features/mydigipass/cookie_policy_popup.feature"
+					],
+					[
+						"app",
+						"lib/app_status.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"restaccoun",
+						"spec/controllers/ws/rest/accounts_controller_spec.rb"
+					],
+					[
+						"workflows",
+						"lib/workflows.rb"
+					],
+					[
+						"databyml",
+						"config/database.yml"
+					],
+					[
+						"cardste",
+						"features/support/world/card_steps_helper.rb"
+					],
+					[
+						"authfea",
+						"features/mydigipass/authenticator.feature"
+					],
+					[
+						"mydigipsthe",
+						"features/support/world/mydigipass_steps_helper.rb"
+					],
+					[
+						"wobase",
+						"lib/workflows/base.rb"
+					],
+					[
+						"work",
+						"lib/workflows.rb"
+					],
+					[
+						"bookmaspec",
+						"spec/models/bookmark_spec.rb"
+					],
+					[
+						"autconsp",
+						"spec/controllers/ws/rest/authentications_controller_spec.rb"
+					],
+					[
+						"account_sp",
+						"spec/models/mdp_frontend/account_spec.rb"
+					],
+					[
+						"factories",
+						"spec/factories.rb"
+					],
+					[
+						"princi",
+						"spec/models/fp/principal_spec.rb"
+					],
+					[
+						"acccospe",
+						"spec/controllers/ws/rest/accounts_controller_spec.rb"
+					],
+					[
+						"small",
+						"spec/factories/small_organisation.rb"
+					],
+					[
+						"bookcon",
+						"spec/controllers/fp/bookmarks_controller_spec.rb"
+					],
+					[
+						"princa",
+						"app/models/fp/principal.rb"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"removeai",
+						"db/migrate/20140103124110_remove_aid_uid_from_account.rb"
+					],
+					[
+						"sett",
+						"config/settings.yml"
+					],
+					[
+						"contra",
+						"lib/contra.rb"
+					],
+					[
+						"probase",
+						"app/models/provisioning/base.rb"
+					],
+					[
+						"regirb",
+						"app/models/provisioning/registration.rb"
+					],
+					[
+						"provcon",
+						"app/controllers/provisioning_controller.rb"
+					],
+					[
+						"fakeviews",
+						"spec/fake_views/fp/sessions/_signin_form_physical_qr.html.haml"
+					],
+					[
+						"source",
+						"spec/lib/source_translation_keys_collector_spec.rb"
+					],
+					[
+						"smscosp",
+						"spec/controllers/fp/devices/sms_controller_spec.rb"
+					],
+					[
+						"smscospe",
+						"spec/controllers/fp/devices/sms_controller_spec.rb"
+					],
+					[
+						"gemfil",
+						"Gemfile"
+					],
+					[
+						"siindex",
+						"app/views/fp/signup/index.html.haml"
+					],
+					[
+						"signuco",
+						"app/controllers/fp/signup_controller.rb"
+					],
+					[
+						"devicon",
+						"app/controllers/fp/devices_controller.rb"
+					],
+					[
+						"smsdev",
+						"app/view_objects/sms_device.rb"
+					],
+					[
+						"accoun",
+						"app/models/mdp_frontend/account_card.rb"
+					],
+					[
+						"verien",
+						"spec/workers/verify_enough_resources_worker_spec.rb"
+					],
+					[
+						"qrpoll",
+						"app/assets/javascripts/launchpad/qr_polling.js.erb"
+					],
+					[
+						"produ",
+						"config/deploy/production.rb"
+					],
+					[
+						"product",
+						"config/deploy/production.rb"
+					],
+					[
+						"develop",
+						"config/environments/development.yml"
+					],
+					[
+						"pricontr",
+						"app/controllers/fp/principals_controller.rb"
+					],
+					[
+						"mdplogg",
+						"lib/loggers/mdp_logger_base.rb"
+					],
+					[
+						"de_",
+						"spec/fixtures/cms/de_translations.json"
+					],
+					[
+						"newkeys",
+						"config/locales/en_new_keys_for_cms.yml"
+					],
+					[
+						"cmsen",
+						"config/locales/cms/en_translations.yml"
+					],
+					[
+						"new_ke",
+						"config/locales/en_new_keys_for_cms.yml"
+					],
+					[
+						"usersigc",
+						"app/controllers/fp/user_signup_controller.rb"
+					],
+					[
+						"faqs",
+						"app/views/shared/fp/_faqs.html.haml"
+					],
+					[
+						"applirb",
+						"config/application.rb"
+					],
+					[
+						"spec_",
+						"spec/spec_helper.rb"
+					],
+					[
+						"coll",
+						"lib/collect_i18n_keys.rb"
+					],
+					[
+						"session",
+						"app/controllers/fp/sessions_controller.rb"
+					],
+					[
+						"fpsession",
+						"app/models/fp/session.rb"
+					],
+					[
+						"stat",
+						"lib/status.rb"
+					],
+					[
+						"user.rb",
+						"app/models/mdp_frontend/user.rb"
+					],
+					[
+						"smsgat",
+						"lib/sms_gateway.rb"
+					],
+					[
+						"en_new",
+						"config/locales/en_new_keys_for_cms.yml"
+					],
+					[
+						"recowife",
+						"features/mydigipass/recovery_wizard.feature"
+					],
+					[
+						"reco",
+						"app/services/recovery_service.rb"
+					],
+					[
+						"reccon",
+						"app/controllers/fp/recovery_controller.rb"
+					],
+					[
+						"pricon",
+						"app/controllers/fp/principals_controller.rb"
+					],
+					[
+						"priconspe",
+						"spec/controllers/fp/principals_controller_spec.rb"
+					],
+					[
+						"mult",
+						"spec/models/fp/multi_username_recovery_spec.rb"
+					],
+					[
+						"find_us",
+						"app/views/fp/recovery/find_username.html.haml"
+					],
+					[
+						"appser",
+						"app/services/application_service.rb"
+					],
+					[
+						"multiusere",
+						"app/models/fp/multi_username_recovery.rb"
+					],
+					[
+						"recocont",
+						"app/controllers/fp/recovery_controller.rb"
+					],
+					[
+						"datayml",
+						"config/database.yml"
+					],
+					[
+						"cron",
+						"lib/tasks/cron.rake"
+					],
+					[
+						"signupcon",
+						"spec/controllers/fp/signup_controller_spec.rb"
+					],
+					[
+						"logger",
+						"lib/loggers/mdp_logger.rb"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"roue",
+						"config/routes.rb"
+					],
+					[
+						"apps",
+						"lib/app_status.rb"
+					],
+					[
+						"mobil",
+						"spec/api/mobile_spec.rb"
+					],
+					[
+						"restap",
+						"features/api/rest_api.feature"
+					],
+					[
+						"probysms",
+						"app/controllers/fp/provisioning_by_sms_controller.rb"
+					],
+					[
+						"provser",
+						"app/services/mobile_provisioner_service.rb"
+					],
+					[
+						"depl",
+						"config/deploy.rb"
+					],
+					[
+						"mobile",
+						"app/api/mobile.rb"
+					],
+					[
+						"pupp",
+						"config/recipes/puppet.rb"
+					],
+					[
+						"dieid",
+						"app/models/mdp_frontend/digipass_eid_authenticator.rb"
+					],
+					[
+						"signuser",
+						"app/services/signup_service.rb"
+					],
+					[
+						"modal",
+						"app/assets/javascripts/launchpad/modal_form.coffee"
+					],
+					[
+						"sessionc",
+						"app/controllers/fp/sessions_controller.rb"
+					],
+					[
+						"qual",
+						"config/settings/qual.yml"
+					],
+					[
+						"side",
+						"config/sidekiq.yml"
+					],
+					[
+						"oacosp",
+						"spec/controllers/fp/oauth_controller_spec.rb"
+					],
+					[
+						"oauthc",
+						"app/controllers/fp/oauth_controller.rb"
+					],
+					[
+						"oaucospe",
+						"spec/controllers/fp/oauth_controller_spec.rb"
+					],
+					[
+						"acclog",
+						"lib/loggers/mdp_accounting_logger.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 338.0,
+			"status_bar_visible": true,
+			"window_id": 446,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/toon/dev/dpplus/dpplus.sublime-project"
+		]
+	}
+}

@@ -1,0 +1,34 @@
+{
+	// General sync settings like the location
+	"sync": false,
+	"sync_folder": "",
+	"sync_interval": 1,
+
+	// Files to include, as long they do not match a pattern in files_to_ignore
+	"files_to_include": [
+		"*.sublime-build",
+		"*.sublime-commands",
+		"*.sublime-completions",
+		"*.sublime-keymap",
+		"*.sublime-settings",
+		"*.sublime-snippet",
+		"*.tmLanguage",
+		"*.tmTheme"
+	],
+
+	// Files to ignore when syncing your data, Package Syncing.sublime-settings
+	// will never be included in the synchronisation process
+	"files_to_ignore": [
+		"*.DS_Store",
+		"Package Control.last-run",
+		"Package Control.ca-list",
+		"Package Control.ca-bundle",
+		"Package Control.system-ca-bundle"
+	],
+
+	// Directories to ignore when syncing your data
+	"dirs_to_ignore": [
+		"Package Control.cache",
+		"Package Control.ca-cert"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	// "color_scheme": "Packages/Theme - Flatland/Flatland.tmTheme",
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		".tags",
+		".tags_sorted_by_file",
+		".sublime-workspace"
+	],
+	"flatland_square_tabs": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		".idea",
+		".bundle",
+		"CVS",
+		"coverage",
+		".tags",
+		".tags_sorted_by_file",
+		".zeus.sock"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"theme": "Flatland.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
